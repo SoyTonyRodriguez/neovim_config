@@ -3,6 +3,11 @@
 
 ![](https://raw.githubusercontent.com/SoyTonyRodriguez/neovim_config/master/screenshots/General.png)
 
+![](https://raw.githubusercontent.com/SoyTonyRodriguez/neovim_config/master/screenshots/preview1.png)
+
+![](https://raw.githubusercontent.com/SoyTonyRodriguez/neovim_config/master/screenshots/preview2.png)
+
+
 ---
 ### Dependences
 - ``pip install neovim``
@@ -19,4 +24,3 @@
 
 ### Coc language servers
 `:CocInstall coc-clangd coc-css coc-emmet coc-html coc-java coc-json coc-pyright coc-python coc-sh coc-snippets coc-tsserver coc-vimlsp`
-
