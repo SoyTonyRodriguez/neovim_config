@@ -1,3 +1,13 @@
+
+" ██████╗ ██╗     ██╗   ██╗ ██████╗ ██╗███╗   ██╗███████╗
+" ██╔══██╗██║     ██║   ██║██╔════╝ ██║████╗  ██║██╔════╝
+" ██████╔╝██║     ██║   ██║██║  ███╗██║██╔██╗ ██║███████╗
+" ██╔═══╝ ██║     ██║   ██║██║   ██║██║██║╚██╗██║╚════██║
+" ██║     ███████╗╚██████╔╝╚██████╔╝██║██║ ╚████║███████║
+" ╚═╝     ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝
+
+"By: https://github.com/SoyTonyRodriguez"
+
 call plug#begin('~/.local/share/nvim/plugged')
 
 "_-_-_-_-_-_-_-_-_-_- Themes _-_-_-_-_-_-_-_-_-_-
@@ -14,7 +24,7 @@ Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'      "Themes for airline
 Plug 'ryanoasis/vim-devicons'              "Icons for the plugins
 Plug 'zinit-zsh/zinit-vim-syntax'          "Syntax for files .zsh
-Plug 'lilydjwg/colorizer'                  "Colorize all text in the form #rgb, #rgba, etc.
+Plug 'lilydjwg/colorizer'                  "Colorize all text in the form rgb, etc.
 Plug 'leafgarland/typescript-vim'          "Syntax for typescript
 Plug 'jistr/vim-nerdtree-tabs'             "Tabs for nerdtree
 Plug 'kovetskiy/sxhkd-vim'                 "Syntax for sxhkd
