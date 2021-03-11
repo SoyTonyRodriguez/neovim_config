@@ -1,10 +1,10 @@
 # Neovim configuration
-####My personal configuration to neovim
+#### My personal configuration to neovim
 
 ![](https://raw.githubusercontent.com/SoyTonyRodriguez/neovim_config/master/screenshots/General.png)
 
 ---
-###Dependences
+### Dependences
 - ``pip install neovim``
 
 - ``yay -S nodejs``
@@ -17,6 +17,6 @@
 
 ---
 
-###Coc language servers
+### Coc language servers
 `:CocInstall coc-clangd coc-css coc-emmet coc-html coc-java coc-json coc-pyright coc-python coc-sh coc-snippets coc-tsserver coc-vimlsp`
 
