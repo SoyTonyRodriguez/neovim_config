@@ -41,4 +41,3 @@ nnoremap <leader>d :bdelete<CR>
 nnoremap <leader>t :tabe<CR>
 
 inoremap <C-e> <C-o>A
-
